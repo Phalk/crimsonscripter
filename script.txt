@@ -1,0 +1,42 @@
+Hello there, this is Crimson Scripter's default script.
+
+#center Centered line of text.
+
+#right Right aligned text.
+
+It's so silent here! Let's play some music?
+
+#bgm audio/bgm.ogg
+#wait 3000
+Way better! Don't you agree?
+
+The upper screen is rather empty. Let's fix that.
+#wait 1000
+#bg img/forest.png
+
+There, it looks better now.
+
+End of this chapter!
+#wait 1000
+#append img/infinity.png center
+
+Chapter 2, lol.
+
+What's that? I'm hearing some water sounds... There must be a waterfall nearby... Let's take a look.
+
+#cm img/chr2.png
+Whoa, what the hell are you doing here Squirtle?
+
+#rm
+#cl img/chr2.png
+#cr img/chr1.png
+Wtf! And Pancham!
+
+Let's input some Lorem Ipsum?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus dolor quis sagittis porta. Nullam eget mauris bibendum, pretium leo luctus, imperdiet ante. Ut eget risus lacus. Nam imperdiet elementum felis eget aliquam. Curabitur fringilla nisl at est maximus, sed scelerisque purus convallis. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus dolor quis sagittis porta. Nullam eget mauris bibendum, pretium leo luctus, imperdiet ante. Ut eget risus lacus. Nam imperdiet elementum felis eget aliquam. Curabitur fringilla nisl at est maximus, sed scelerisque purus convallis. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus dolor quis sagittis porta. Nullam eget mauris bibendum, pretium leo luctus, imperdiet ante. Ut eget risus lacus. Nam imperdiet elementum felis eget aliquam. Curabitur fringilla nisl at est maximus, sed scelerisque purus convallis. 
+
+Press HOME to quit.
+$
